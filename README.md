@@ -8,9 +8,7 @@ The app is built using MVVM architecture and Jetpack Compose UI.
 The app provides a virtual geometry box for students, teachers, and creators.
 It enables drawing precise shapes and measurements directly on the device, with modern UI and smooth interactions.
 
-🖼 Workflow (From PDF)
-
-Splash / Intro Page
+🖼 Workflow
 
 App logo + name.
 
